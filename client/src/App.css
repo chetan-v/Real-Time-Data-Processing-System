@@ -1,0 +1,32 @@
+/* App.css */
+
+.App {
+  text-align: center;
+}
+
+.table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+.table-header {
+  background-color: #f2f2f2;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+.table-cell {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.alerts {
+  color: red;
+  margin: 20px;
+}
+
+.alerts h2 {
+  margin: 0;
+}
