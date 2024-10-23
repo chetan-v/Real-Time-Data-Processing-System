@@ -47,6 +47,10 @@ docker-compose down
 
 This command will stop and remove the containers.
 
+## pic
+![image](https://github.com/user-attachments/assets/dccbfa0b-b62a-42f2-b743-584136928628)
+
+
 ## Additional Information
 
 - The client application is built using Create React App.
